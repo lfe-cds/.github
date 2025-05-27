@@ -1,6 +1,7 @@
 ![Connected Data Specifications](https://artwork.lfess.energy/projects/cds/horizontal/color/cds-horizontal-color.svg)
 
-Our website: [cds.lfenergy.org](https://cds.lfenergy.org/)
+Our website:  
+[cds.lfenergy.org](https://cds.lfenergy.org/)
 
 Let us know how important this is to you!  
 [Take Survey](https://docs.google.com/forms/d/e/1FAIpQLSdMrsFjjUax5MlQuSDBE2EpxIgiC7HO6NY5vP7ec1Mn0KIXcA/viewform)
