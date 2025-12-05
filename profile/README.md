@@ -20,7 +20,7 @@ Participation in the project is open to all, including reviewing public informat
 
 The CDS community meets on the second Wednesday of each month at 8:00 am US Pacific Time/11:00 am US Eastern Time/5:00 pm Central European Time to align the work across the working groups and assess the specification development process; you can track the discussion items [here](https://github.com/orgs/lfe-cds/projects/1). Register for the meeting [here](https://zoom-lfx.platform.linuxfoundation.org/meeting/99111842486?password=1218d1b4-d375-4464-8ce6-305cb48f849a). 
 
-You can see the full calendar of community activities [here](https://zoom-lfx.platform.linuxfoundation.org/meetings/lf-energy-standards-and-specifications?projects=cdsc1,cdsc2,cdsc-connectivity-wg&view=week) (note the timezone in the bottom left corner of the page).
+You can see the full calendar of community activities [here](http://calendar.cds.energy/) (note the timezone in the bottom left corner of the page).
 
 The Project is overseen by the [LF Energy Standards and Specifications](https://lfess.energy) (LFESS) Steering Committee, which approves the final specifications by up or down vote and ensures the project has the needed resources to be successful.
 
